@@ -1,0 +1,39 @@
+    body{
+        min-width: 100vw;
+    }
+
+    .header{
+        width: 100%;
+        height: 397.89px;
+        color:#FFFFFF;
+        background: #707070 0% 0% no-repeat padding-box;
+
+    }
+
+    .header h1{
+        font-size:40px;
+
+    }
+
+    .header h2{
+        font-size:20px;
+
+    }
+
+    .header h3{
+        font-size:14px;
+
+    }
+
+    .container__buttons{
+        display:flex;
+        flex-direction:row;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        position: absolute;
+        top: 229px;
+        left: 38px;
+        width: 345px;
+        height: 111px;
+        margin: 0 auto;
+    }
